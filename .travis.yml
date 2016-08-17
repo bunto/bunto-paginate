@@ -24,6 +24,5 @@ matrix:
 
 env:
   matrix:
-    - ""
     - BUNTO_VERSION=3.0.0
     - BUNTO_VERSION=3.2.1
